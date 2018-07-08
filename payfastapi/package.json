@@ -1,0 +1,28 @@
+{
+  "name": "payfastapi",
+  "version": "1.0.0",
+  "description": "Api criado em node js para pagamento online, estudos do nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gisiona/curso-alura-nodejs-payfast.git"
+  },
+  "keywords": [
+    "Api",
+    "NodeJs",
+    "payfast",
+    "estudos"
+  ],
+  "author": "Gisiona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gisiona/curso-alura-nodejs-payfast/issues"
+  },
+  "homepage": "https://github.com/Gisiona/curso-alura-nodejs-payfast#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
